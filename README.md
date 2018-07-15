@@ -7,7 +7,7 @@ Are you ready to get started with .NET Core? Learn the skills that will make you
 From     | To       | Session
 ---------|----------|-------------------------------------------------
 9:00 AM  | 10:00 AM | [Overview, Tools and Acquisition](1-Overview-Tools-Acquisition) (1 hour)
-10:00 AM | 10:30 PM | [.NET CLI](2-CLI)(30 min)
+10:00 AM | 10:30 PM | [.NET CLI](2-CLI) (30 min)
 10:30 AM | 11:00 PM | Break (30 min)
 11:00 AM | 12:00 PM | [Web Applications](3-Web-Applications) (1 hour)
 12:00 PM | 12:30 PM | [Containers](4-Containers) (30 min)

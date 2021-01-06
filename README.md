@@ -33,7 +33,7 @@ From     | To       | Session
 ## Where to go next
 
  * [http://dot.net](http://dot.net?WT.mc_id=workshop-github-shboyer) - .NET Core overview, tutorials, links
- * [http://doc.microsoft.com](http://docs.microsoft.com?WT.mc_id=workshop-github-shboyer) - All the docs, tutorials, more!
- * [ASP.NET Documentation](https://docs.microsoft.com/aspnet?WT.mc_id=workshop-github-shboyer)
- * [.NET Standard docs](https://docs.microsoft.com/dotnet/articles/standard/library?WT.mc_id=workshop-github-shboyer)
+ * [https://doc.microsoft.com/?WT.mc_id=dotnet-0000-shboyer](https://docs.microsoft.com/?WT.mc_id=dotnet-0000-shboyer) - All the docs, tutorials, more!
+ * [ASP.NET Documentation](https://docs.microsoft.com/aspnet?WT.mc_id=dotnet-0000-shboyer)
+ * [.NET Standard docs](https://docs.microsoft.com/dotnet/articles/standard/library?WT.mc_id=dotnet-0000-shboyer)
  * [Microservices e-book](http://aka.ms/MicroservicesEbook?WT.mc_id=workshop-github-shboyer)
